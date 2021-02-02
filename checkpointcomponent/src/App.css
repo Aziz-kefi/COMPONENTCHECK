@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display:flex;
+  width: 1500px;
+  margin: 50px;
+  margin-left: 100px;
+}
+.info{
+  width: 700px;
+  margin: 50px;
+}
